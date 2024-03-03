@@ -1,0 +1,2 @@
+# streactionmc.pl
+opis
