@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["W grze ReactionMC.pl"];
+const statusMessages = ["W grze StarEu.pl"];
 
 
 let currentIndex = 0;
